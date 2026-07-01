@@ -1,0 +1,277 @@
+canonical_identifier: bkk:krp/KR6k0074/v1
+canonical_location: https://kanripo.org/bkk/KR6k0074/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說目連五百問經略解
+  identifiers:
+    alt_id:
+    - X44n0750
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X44/X44n0750.xml
+    old_id: X44n0750
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0074_000.yaml, hash: 'sha256:c27636d025be467ae1c841179a1cec81d5b62d42d806403e3f53d9456dd0f970'}
+  - {seq: 1, filename: KR6k0074_001.yaml, hash: 'sha256:bd1b66db0f71402b57e4143f90546a66642b752077c9cd93caf179c707e39953'}
+  - {seq: 2, filename: KR6k0074_002.yaml, hash: 'sha256:aff10634ec3cd407241d72069bc1f4b5ea5e863b99c7c76dd20af9e80aa4aeb1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0074_000.markers.yaml, hash: 'sha256:e220abb71fcf8a9aa0f7479781aaf078067f425481eec6b16d1500fd9010512c'}
+  - {seq: 1, role: markers, filename: assets/KR6k0074_001.markers.yaml, hash: 'sha256:9a92bee87b3a18e3e5e4825a12aa8388bd2f51170cd759ec86435a1930556923'}
+  - {seq: 2, role: markers, filename: assets/KR6k0074_002.markers.yaml, hash: 'sha256:9299b7023f99d0e767b5e341da945b377158b979372c6821015df0f258cd4c70'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0074_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 750-A 佛說目連五百問經略解序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0074_X_000-mulu-2
+    span:
+    - front
+    - 318
+    - 318
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0074_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 29057
+  label: '佛說目連問戒律中五百輕重事經
+
+    略解卷上'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0074_X_001-mulu-1
+    span:
+    - body
+    - 21
+    - 21
+  label: 釋題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0074_X_001-mulu-2
+    span:
+    - body
+    - 795
+    - 795
+  label: 五篇事品第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0074_X_001-mulu-3
+    span:
+    - body
+    - 3845
+    - 3845
+  label: 問佛事品第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0074_X_001-mulu-4
+    span:
+    - body
+    - 9214
+    - 9214
+  label: 問法事品第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0074_X_001-mulu-5
+    span:
+    - body
+    - 10853
+    - 10853
+  label: 結界法品第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0074_X_001-mulu-6
+    span:
+    - body
+    - 14117
+    - 14117
+  label: 問歲坐事品第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0074_X_001-mulu-7
+    span:
+    - body
+    - 18646
+    - 18646
+  label: 度人事品第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0074_X_001-mulu-8
+    span:
+    - body
+    - 20301
+    - 20301
+  label: 問受戒事品第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0074_X_001-mulu-9
+    span:
+    - body
+    - 22863
+    - 22863
+  label: 受施事品第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0074_X_001-mulu-10
+    span:
+    - body
+    - 25670
+    - 25670
+  label: 疾病事品第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0074_X_001-mulu-11
+    span:
+    - body
+    - 26663
+    - 26663
+  label: 死亡事品第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0074_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 24153
+  label: 佛說目連問戒律中五百輕重事經略解卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0074_X_002-mulu-1
+    span:
+    - body
+    - 21
+    - 21
+  label: 三衣事品第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0074_X_002-mulu-2
+    span:
+    - body
+    - 1185
+    - 1185
+  label: 鉢事品第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0074_X_002-mulu-3
+    span:
+    - body
+    - 2170
+    - 2170
+  label: 雜事品第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0074_X_002-mulu-4
+    span:
+    - body
+    - 14223
+    - 14223
+  label: 三自歸事品第十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0074_X_002-mulu-5
+    span:
+    - body
+    - 16084
+    - 16084
+  label: 問五戒事品第十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0074_X_002-mulu-6
+    span:
+    - body
+    - 17877
+    - 17877
+  label: 十戒事品第十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0074_X_002-mulu-7
+    span:
+    - body
+    - 18403
+    - 18403
+  label: 問沙彌品第十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0074_X_002-mulu-8
+    span:
+    - body
+    - 20036
+    - 20036
+  label: 歲坐竟懺悔文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0074_X_002-mulu-9
+    span:
+    - body
+    - 20785
+    - 20785
+  label: 此九十日所犯事通威儀
+  type: mulu
+  level: 1
+hash: sha256:1907b25c2fb076792dc6e16f920e5c09a52244205d220f77709d74a8f02f1ec3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
