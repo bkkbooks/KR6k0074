@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0074/v1
 canonical_location: https://kanripo.org/bkk/KR6k0074/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說目連五百問經略解
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6k0074_000.yaml, hash: 'sha256:15e40f3a6a4a6e93cdc64d360f8bd4daadb1f24c851eb931cd46241538ac97c4'}
-  - {seq: 1, filename: KR6k0074_001.yaml, hash: 'sha256:4627852c68eb06c85e23123bcb3ca507a4d9fa50642943cad6f2178825e7ebb5'}
-  - {seq: 2, filename: KR6k0074_002.yaml, hash: 'sha256:0ddc2f8cd066263537f1ddef47752384ef25e4cfcbc9c5bb2e407062cafcb65d'}
+  - {seq: 0, filename: KR6k0074_000.yaml, hash: 'sha256:1df6a7e2d5bc01381cbeed3352b67ec82813f7e83ca28d29e907420e91bfa8b7'}
+  - {seq: 1, filename: KR6k0074_001.yaml, hash: 'sha256:1241feb14608e86be24ac211c5b79f64851375f97c39d7d817623ff775b18b6b'}
+  - {seq: 2, filename: KR6k0074_002.yaml, hash: 'sha256:8774971df474bbb053364340ad35f6a4e89877b84203ea0390ec58064068a6f7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0074_000.markers.yaml, hash: 'sha256:f4d1ac9b62b43d0b33eb9d70dc456a04c51977043c4b9103e694651ad383c535'}
-  - {seq: 1, role: markers, filename: assets/KR6k0074_001.markers.yaml, hash: 'sha256:9d65d6b80647911bca98302a8ff9e12a2632bcce788ea12efc87500abbdaafe2'}
-  - {seq: 2, role: markers, filename: assets/KR6k0074_002.markers.yaml, hash: 'sha256:6b8fe41d2991506988d9251f99cfa34bffe44c61bcaed7c104f5264d7b98ebe6'}
+  - {seq: 0, role: markers, filename: assets/KR6k0074_000.markers.yaml, hash: 'sha256:1d08b7ce574fe1d8be4b13695aaa549f54d09e6e4da47f3ab5e5e81438a66d79'}
+  - {seq: 1, role: markers, filename: assets/KR6k0074_001.markers.yaml, hash: 'sha256:eefce9940a67a31bb342669f50089e81e6858a788e522a823a70884de4250ed4'}
+  - {seq: 2, role: markers, filename: assets/KR6k0074_002.markers.yaml, hash: 'sha256:a2f64f1aeac208c4bbb37830b4da038176c4a57ebecac816041b0a5097683787'}
 table_of_contents:
 - ref:
     seq: 0
@@ -271,4 +271,7 @@ table_of_contents:
   label: 此九十日所犯事通威儀
   type: mulu
   level: 1
-hash: sha256:a9477806a2f3d66cdf26117aa0e21c448ac9bccd695ad50ae895533bfb7f1a9c
+hash: sha256:7bb8519dae15ecab817de2cc8df44e7fd9cb4acd1aeb1b95828d8f61f69ffc91
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
