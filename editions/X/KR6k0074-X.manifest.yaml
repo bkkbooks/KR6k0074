@@ -19,11 +19,11 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6k0074_000-X.yaml, hash: 'sha256:15e40f3a6a4a6e93cdc64d360f8bd4daadb1f24c851eb931cd46241538ac97c4'}
+  - {seq: 0, filename: KR6k0074_000-X.yaml, hash: 'sha256:89a9dbdeafb3cf7427a48989f921d3f21c97f1b3ea0c73c4f4c802d24a961619'}
   - {seq: 1, filename: KR6k0074_001-X.yaml, hash: 'sha256:4627852c68eb06c85e23123bcb3ca507a4d9fa50642943cad6f2178825e7ebb5'}
   - {seq: 2, filename: KR6k0074_002-X.yaml, hash: 'sha256:0ddc2f8cd066263537f1ddef47752384ef25e4cfcbc9c5bb2e407062cafcb65d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0074_000-X.markers.yaml, hash: 'sha256:26549ce69ae46bbe8dec0d9ab6f7a6896a22d65a1ecf67cf27c7bdbf91dc275e'}
+  - {seq: 0, role: markers, filename: assets/KR6k0074_000-X.markers.yaml, hash: 'sha256:26ac3a975d6d60faa8a977872637d86334036072b70804451e646f2184d3653a'}
   - {seq: 1, role: markers, filename: assets/KR6k0074_001-X.markers.yaml, hash: 'sha256:e2b65c8ce1d7685bbdb04306cc5ba118036209f6f2cc7911f0262a8245d8596e'}
   - {seq: 2, role: markers, filename: assets/KR6k0074_002-X.markers.yaml, hash: 'sha256:4e0d546cf7b0adffa07a042cc98e30bdce83477975269b30deffa2b5bfb3b2db'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0074_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 750-A 佛說目連五百問經略解序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0074_X_000-mulu-2
     span:
-    - front
+    - body
     - 318
     - 318
   label: 目次
@@ -269,4 +269,4 @@ table_of_contents:
   label: 此九十日所犯事通威儀
   type: mulu
   level: 1
-hash: sha256:535013b42999f976922d5404e4bb8ffe91c75148ee06375d89337a3cd2abbc48
+hash: sha256:3b94486eb6951c6deda2062b9e61f87ae85948a21ae230024de1b3b6e5245a32
